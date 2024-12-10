@@ -1,0 +1,5 @@
+This tutorial will show you the EXACT steps to reset and update your KPLC prepaid meter using the SMS codes from Kenya Power(KPLC). 
+
+We'll walk you through the simple process of resetting and updating your KPLC meter using the codes sent by SMS. We'll also show you how to ensure your existing tokens are applied after the update, AND how to solve common token load errors that might pop up after the reset.
+
+#KPLC #MeterUpdate #TokenReset #KenyaPower #PrepaidMeter #ElectricityToken #Kenya #HowTo #Guide #2024 #FixTokenError #KPLCError #KPLCSupport
